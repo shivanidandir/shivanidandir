@@ -1,41 +1,20 @@
-### Welcome!!^_^
-
-
-I am an engineer interested in exploring intersection of Machine learning and business problems. As as undergraduate my primary 
+## Welcome!!^_^
 
 
 
 
 
 
+###✏ Recent Towards Data Science Articles
+* [Extracting Data from Twitter using Python](https://towardsdatascience.com/extracting-data-from-twitter-using-python-5ab67bff553a)
+* [Indian Crime Data Analysis](https://towardsdatascience.com/indian-crime-data-analysis-85d3afdc0ceb)
 
 
 
-
-
-
-
-
-
-
-
-
-
-Skills
-
-
-
-
-
-
-
-
-
-
-
+###To Connect
+[[<img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://medium.com/shivanidandir)  [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/shivanidandir/)
 
 
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shivanidandir)]
-![Shivani's GitHub stats](https://github-readme-stats.vercel.app/api?username=shivanidandir&show_icons=true&theme=radical)

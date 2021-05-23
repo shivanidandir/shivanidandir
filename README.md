@@ -6,7 +6,7 @@
 
 
 
-### ✏ Recent Towards Data Science Articles
+### ✏ Recent in Towards Data Science Articles
 ____
 
 * [Extracting Data from Twitter using Python](https://towardsdatascience.com/extracting-data-from-twitter-using-python-5ab67bff553a)

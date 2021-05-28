@@ -1,6 +1,8 @@
 ## Welcome!!^_^
 ---
 
+### About Me?
+
 An engineer trying to make sense of data by using machine learning techniques. Currently working with Deloitte USI as an Analyst in Core Business Operations for a high revenue-generating account(State of Louisiana). Passionate about Business Analysis, and have experience in deploying scalable services to meet the business needs of clients.
 
 Notable skills include but are not limited to -

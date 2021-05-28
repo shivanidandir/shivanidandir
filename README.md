@@ -1,9 +1,18 @@
 ## Welcome!!^_^
 ---
 
+An engineer trying to make sense of data by using machine learning techniques. Currently working with Deloitte USI as an Analyst in Core Business Operations for a high revenue-generating account(State of Louisiana). Passionate about Business Analysis, and have experience in deploying scalable services to meet the business needs of clients.
 
+Notable skills include but are not limited to -
+1. Python/R
+2. SQL
+3. NLP (sentiment analysis), CV ( action detection)
+4. Machine Learning(regression and classification algorithms)
+5. JAVA
 
+Be it managing a team, handling databases, learning economics & psychology, or interacting with new people; I find value and meaning in it all. I've always had the intention to connect these various dots and make something novel out of them. For me learning never stops; I keep learning every day and creating a better version of myself.
 
+Apart from this, you could find me reading in a corner.
 
 
 ### ✏ Recent in Towards Data Science Articles

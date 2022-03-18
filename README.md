@@ -3,7 +3,7 @@
 
 ### About Me?
 
-An engineer trying to make sense of data by using machine learning techniques. Currently working with Deloitte USI as an Analyst in Core Business Operations for a high revenue-generating account(State of Louisiana). Passionate about Business Analysis, and have experience in deploying scalable services to meet the business needs of clients.
+An engineer trying to make sense of data by using machine learning techniques. Currently, a graduate student at Eller College of Management, University of Arizona doing my Masters in Management Information System. Previously, worked with Deloitte USI as an Analyst in Core Business Operations for a high revenue-generating account(State of Louisiana). Passionate about Business Analysis, and have experience in deploying scalable services to meet the business needs of clients.
 
 Notable skills include but are not limited to -
 1. Python/R
@@ -22,6 +22,7 @@ ____
 
 * [Extracting Data from Twitter using Python](https://towardsdatascience.com/extracting-data-from-twitter-using-python-5ab67bff553a)
 * [Indian Crime Data Analysis](https://towardsdatascience.com/indian-crime-data-analysis-85d3afdc0ceb)
+* [SQL Nitty Gritty](https://medium.com/@shivanidandir/sql-nitty-gritty-8ef88ee9909a)
 
 
 

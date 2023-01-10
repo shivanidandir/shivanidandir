@@ -3,7 +3,7 @@
 
 ### About Me?
 
-An engineer trying to make sense of data by using machine learning techniques. Currently, a graduate student at Eller College of Management, University of Arizona doing my Masters in Management Information System. Previously, worked with Deloitte USI as an Analyst in Core Business Operations for a high revenue-generating account(State of Louisiana). Passionate about Business Analysis, and have experience in deploying scalable services to meet the business needs of clients.
+An engineer trying to make sense of data. I recently graduated the University of Arizona with Masters in Management Information Systems. I have interned at Amazon Alexa as a Business Intelligence Engineer, developed product metrics in SQL, and visualized them in Tableau. Prior to this, worked with Deloitte USI as an Analyst in Core Business Operations, managing data of a large public sector project. . Passionate about Business Analysis, and have experience in deploying scalable services to meet the business needs of clients.
 
 Notable skills include but are not limited to -
 1. Python/R
